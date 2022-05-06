@@ -1,0 +1,31 @@
+{
+  "Equipments": [
+    {
+      "KindsID": 1210001,
+      "SelfID": 1,
+      "Attr": {
+        "HP": 9,
+        "ATK": 1,
+        "MATK": 1,
+        "DEF": 1,
+        "MDEF": 0,
+        "STR": 0,
+        "AGI": 1,
+        "WIS": 0
+      },
+      "IsUse": true
+    }
+  ],
+  "MatItems": [],
+  "TaskItems": [
+    {
+      "KindsID": 6010001,
+      "Count": 1
+    },
+    {
+      "KindsID": 6010002,
+      "Count": 1
+    }
+  ],
+  "Mana": 100
+}

@@ -1,0 +1,145 @@
+{
+  "任务": [
+    {
+      "ID": 10001,
+      "Name": "萌新之路1",
+      "Description": "测试1",
+      "RewardCash": 100,
+      "RewardExp": 10,
+      "RewardItem": [],
+      "Repeatable": 0,
+      "TaskTaker": 9010000,
+      "QuestConditions": [],
+      "QuestType": 0,
+      "Quests": [
+        [
+          9010000,
+          1
+        ]
+      ],
+      "SubmissionNpcID": 9010000
+    },
+    {
+      "ID": 10002,
+      "Name": "萌新之路2",
+      "Description": "测试2",
+      "RewardCash": 100,
+      "RewardExp": 10,
+      "RewardItem": [],
+      "Repeatable": 0,
+      "TaskTaker": 9010000,
+      "QuestConditions": [
+        [
+          6,
+          10001
+        ]
+      ],
+      "QuestType": 1,
+      "Quests": [
+        [
+          7010000,
+          1
+        ]
+      ],
+      "SubmissionNpcID": 9010000
+    }
+  ],
+  "任务对话": [
+    {
+      "ID": 10001,
+      "QuestPhase": 2,
+      "Dialog": [
+        [
+          "9010000",
+          "少年我看你骨骼惊奇，这个任务就交给你了。"
+        ]
+      ]
+    },
+    {
+      "ID": 10001,
+      "QuestPhase": 4,
+      "Dialog": [
+        [
+          "9010000",
+          "还没有完成吗？"
+        ]
+      ]
+    },
+    {
+      "ID": 10001,
+      "QuestPhase": 4,
+      "Dialog": [
+        [
+          "9010000",
+          "看来你还需要一些指点，这个任务需要…"
+        ]
+      ]
+    },
+    {
+      "ID": 10001,
+      "QuestPhase": 5,
+      "Dialog": [
+        [
+          "9010000",
+          "已经完成了吗？"
+        ],
+        [
+          "9010000",
+          "这是你的奖励。"
+        ]
+      ]
+    },
+    {
+      "ID": 10002,
+      "QuestPhase": 2,
+      "Dialog": [
+        [
+          "9010000",
+          "周边有个地方有些奇怪，你去看看吧。"
+        ]
+      ]
+    },
+    {
+      "ID": 10002,
+      "QuestPhase": 4,
+      "Dialog": [
+        [
+          "9010000",
+          "有发现什么吗？"
+        ]
+      ]
+    },
+    {
+      "ID": 10002,
+      "QuestPhase": 4,
+      "Dialog": [
+        [
+          "9010000",
+          "就在那里呀，快去看看。"
+        ]
+      ]
+    },
+    {
+      "ID": 10002,
+      "QuestPhase": 5,
+      "Dialog": [
+        [
+          "9010000",
+          "嗯，不错，奖励收下吧。"
+        ]
+      ]
+    }
+  ],
+  "任务调查点": [
+    {
+      "ID": 7010000,
+      "Name": "测试点1",
+      "Position": [
+        "567.35",
+        "1",
+        "438.55"
+      ],
+      "PrefabPath": "QuestPoint"
+    }
+  ]
+}

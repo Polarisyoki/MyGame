@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 221075285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a21a22dc84f9fc971d55e3ec37b3ec9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a07f049d656b6abc49c3f5eb7caae394
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e4d71d3d45324c4e8e896562f34a3f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metafalica/res/prefabs/ui/MessageArea.prefab
+Dependencies: []

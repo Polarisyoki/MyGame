@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 3436577393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59d1ec82f391834ce30604d23d5c2de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metafalica/res/icon/skill/arrowshower.png
+- Assets/Metafalica/res/icon/item/equip/bow3.png
+- Assets/Metafalica/res/icon/item/other/Potion7.png
+- Assets/Metafalica/res/icon/item/equip/Sword1.png
+- Assets/Metafalica/res/icon/skill/icebolt.png
+- Assets/Metafalica/res/icon/locked.png
+- Assets/Metafalica/res/icon/skill/tripleattack.png
+- Assets/Metafalica/res/icon/item/equip/Armor2.png
+- Assets/Metafalica/res/icon/item/equip/CrystalStaff.png
+- Assets/Metafalica/res/icon/skill/poisonbolt.png
+- Assets/Metafalica/res/icon/item/mat/Gel.png
+- Assets/Metafalica/res/icon/item/equip/EnigmaStaff.png
+- Assets/Metafalica/res/icon/skill/faith.png
+- Assets/Metafalica/res/icon/item/equip/Armor3.png
+- Assets/Metafalica/res/icon/skill/comet.png
+- Assets/Metafalica/res/icon/item/equip/bow2.png
+- Assets/Metafalica/res/icon/skill/blank.png
+- Assets/Metafalica/res/icon/item/other/GoblinInsignia.png
+- Assets/Metafalica/res/icon/skill/crowIcon.png
+- Assets/Metafalica/res/icon/skill/barrier.png
+- Assets/Metafalica/res/icon/skill/firebirdIcon.png
+- Assets/Metafalica/res/icon/item/equip/ring.png
+- Assets/Metafalica/res/icon/skill/brave.png
+- Assets/Metafalica/res/icon/item/equip/WingedStaff.png
+- Assets/Metafalica/res/icon/item/equip/ribbon.png
+- Assets/Metafalica/res/icon/item/equip/Sword2.png
+- Assets/Metafalica/res/icon/skill/heal.png
+- Assets/Metafalica/res/icon/item/mat/SpiderVenom.png
+- Assets/Metafalica/res/icon/skill/bash.png
+- Assets/Metafalica/res/icon/skill/lightning.png
+- Assets/Metafalica/res/icon/item/equip/Armor1.png
+- Assets/Metafalica/res/icon/item/mat/Trunk2.png
+- Assets/Metafalica/res/icon/buff/BuffMATK.png
+- Assets/Metafalica/res/icon/item/other/Potion8.png
+- Assets/Metafalica/res/icon/item/equip/arrow.png
+- Assets/Metafalica/res/icon/item/equip/Sword3.png
+- Assets/Metafalica/res/icon/item/equip/gloves.png
+- Assets/Metafalica/res/icon/skill/mbarrier.png
+- Assets/Metafalica/res/icon/item/other/Potion5.png
+- Assets/Metafalica/res/icon/item/other/Light_Silhouette.png
+- Assets/Metafalica/res/icon/skill/tripplefirebolt.png
+- Assets/Metafalica/res/icon/item/other/Potion6.png
+- Assets/Metafalica/res/icon/skill/rapidshot.png
+- Assets/Metafalica/res/icon/item/equip/EclipseStaff.png
+- Assets/Metafalica/res/icon/skill/FlameStone.png
+- Assets/Metafalica/res/icon/buff/BuffMDEF.png
+- Assets/Metafalica/res/icon/item/other/Potion4.png
+- Assets/Metafalica/res/icon/item/equip/helm.png
+- Assets/Metafalica/res/icon/item/mat/Gel2.png
+- Assets/Metafalica/res/icon/item/mat/Trunk.png
+- Assets/Metafalica/res/icon/skill/flameshield.png
+- Assets/Metafalica/res/icon/skill/FlameStone2.png
+- Assets/Metafalica/res/icon/skill/icespike.png
+- Assets/Metafalica/res/icon/skill/whirlwind.png
+- Assets/Metafalica/res/icon/skill/bladewave.png
+- Assets/Metafalica/res/icon/skill/turret.png
+- Assets/Metafalica/res/icon/skill/stonebarrier.png
+- Assets/Metafalica/res/icon/item/equip/boots.png
+- Assets/Metafalica/res/icon/item/other/Dark_Silhouette.png
+- Assets/Metafalica/res/icon/skill/wolfIcon.png
+- Assets/Metafalica/res/icon/item/equip/bow4.png
+- Assets/Metafalica/res/icon/buff/BuffATK.png
+- Assets/Metafalica/res/icon/item/mat/ElderTrunk.png
+- Assets/Metafalica/res/icon/item/other/Potion1.png
+- Assets/Metafalica/res/icon/buff/BuffDEF.png
+- Assets/Metafalica/res/icon/skill/poisonmist.png
+- Assets/Metafalica/res/icon/item/mat/SpiderWeb.png
+- Assets/Metafalica/res/icon/item/other/Potion2.png
+- Assets/Metafalica/res/icon/skill/groundcrush.png
+- Assets/Metafalica/res/icon/item/equip/Sword4.png
+- Assets/Metafalica/res/icon/skill/explodingarrow.png
+- Assets/Metafalica/res/icon/item/other/Potion3.png
+- Assets/Metafalica/res/icon/item/equip/Bow1.png
+- Assets/Metafalica/res/icon/skill/firebolt.png
+- Assets/Metafalica/res/icon/skill/firering.png
+Dependencies: []

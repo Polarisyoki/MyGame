@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3447081929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d293ba7fb5ec670df03a59749e49717d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metafalica/res/config/InputCfg.json
+- Assets/Metafalica/res/config/ItemCfg.json
+- Assets/Metafalica/res/config/NpcCfg.json
+- Assets/Metafalica/res/config/QuestCfg.json
+Dependencies: []

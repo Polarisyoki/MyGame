@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 284635712
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animation
+      Dependencies:
+        Dependency_0: cocoa
+    Info_1:
+      Name: config
+      Dependencies: {}
+    Info_2:
+      Name: icon
+      Dependencies: {}
+    Info_3:
+      Name: materials
+      Dependencies: {}
+    Info_4:
+      Name: cocoa
+      Dependencies:
+        Dependency_0: animation
+    Info_5:
+      Name: questpoint
+      Dependencies: {}
+    Info_6:
+      Name: dialogueview
+      Dependencies: {}
+    Info_7:
+      Name: infantrypack
+      Dependencies:
+        Dependency_0: dialogueview
+    Info_8:
+      Name: interactiveoptioncell
+      Dependencies: {}
+    Info_9:
+      Name: itemcell
+      Dependencies: {}
+    Info_10:
+      Name: messagearea
+      Dependencies: {}
+    Info_11:
+      Name: playerstatepanel
+      Dependencies: {}
+    Info_12:
+      Name: questnamecell
+      Dependencies: {}
+    Info_13:
+      Name: questpanel
+      Dependencies: {}
+    Info_14:
+      Name: showiteminfo
+      Dependencies: {}
+    Info_15:
+      Name: uiroot
+      Dependencies:
+        Dependency_0: icon
+    Info_16:
+      Name: abconfig
+      Dependencies: {}

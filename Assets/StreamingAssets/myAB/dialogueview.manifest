@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1780792924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de1be419cc16081bc978e4f689e82aec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f50c835e76284bf096e8eccde258248
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f532bf7ceccb41f48a2511d2bf890933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metafalica/GraphicResources/GUI/TextWindow.png
+- Assets/Metafalica/res/prefabs/ui/DialogueView.prefab
+Dependencies: []

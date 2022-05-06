@@ -1,0 +1,14 @@
+{
+  "AllTimes": [
+    {
+      "ID": 10001,
+      "CompleteTimes": 1
+    }
+  ],
+  "AllInProgresses": [
+    {
+      "ID": 10002,
+      "CompleteTimes": 0
+    }
+  ]
+}

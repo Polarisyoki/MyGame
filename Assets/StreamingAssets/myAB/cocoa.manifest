@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 1024189134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9513539ff202fb74ba77308f60c40ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7bf5c6af04e4b14ecc791075160c19d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f1425d1c092e0b4687d380c6980f277, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f15dc0ff678cf540b49a822588df8ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d293f7052f0ad447a9486e78efb6c9a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT04.fbx
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex3_mask.png
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT01.fbx
+- Assets/Metafalica/Character/cocoa/Textures/tex3.png
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT00.fbx
+- Assets/Metafalica/res/prefabs/npc/Cocoa.prefab
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex3_outline.png
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex2_mask.png
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex1_outline.png
+- Assets/Metafalica/Character/cocoa/Textures/tex1.png
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex3_clip.png
+- Assets/Toon/Shader/Toon_ShadingGradeMap_AngelRing_TransClipping.shader
+- Assets/Metafalica/Character/cocoa/Materials/tex2.mat
+- Assets/Metafalica/Character/cocoa/Materials/tex1.mat
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex2_outline.png
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT02.fbx
+- Assets/Metafalica/Character/cocoa/Materials/tex3.mat
+- Assets/Metafalica/Character/cocoa/fbx/cocoa_0.0.0.fbx
+- Assets/Metafalica/Character/cocoa/Textures/tex2.png
+- Assets/Metafalica/Character/cocoa/Textures/masks/tex1_mask.png
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT03.fbx
+Dependencies:
+- C:/zzzzzpr/unity_pro/MyGame/Assets/StreamingAssets/myAB/animation

@@ -1,0 +1,84 @@
+{
+  "Key": [
+    {
+      "Name": "移动",
+      "Enable": 0,
+      "VirtualKeyType": 5,
+      "KeyCode": [
+        "D",
+        "A",
+        "W",
+        "S"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 1
+    },
+    {
+      "Name": "设置",
+      "Enable": 0,
+      "VirtualKeyType": 2,
+      "KeyCode": [
+        "M"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    },
+    {
+      "Name": "背包",
+      "Enable": 0,
+      "VirtualKeyType": 2,
+      "KeyCode": [
+        "B"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    },
+    {
+      "Name": "人物属性",
+      "Enable": 0,
+      "VirtualKeyType": 2,
+      "KeyCode": [
+        "P"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    },
+    {
+      "Name": "任务",
+      "Enable": 0,
+      "VirtualKeyType": 2,
+      "KeyCode": [
+        "J"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    },
+    {
+      "Name": "交互",
+      "Enable": 0,
+      "VirtualKeyType": 2,
+      "KeyCode": [
+        "F"
+      ],
+      "ClickCount": 0,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    },
+    {
+      "Name": "切换移动模式",
+      "Enable": 0,
+      "VirtualKeyType": 1,
+      "KeyCode": [
+        "LeftControl"
+      ],
+      "ClickCount": 1,
+      "KeyType": 0,
+      "AxisKeyDimension": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1866611741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91d54bd265fa29743e15d4b8211c5ae2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Metafalica/res/animation/SwitchAnimeC.controller
+- Assets/Metafalica/res/animation/Player/PlayerControl.controller
+- Assets/Metafalica/res/animation/Monster/Rabbit.controller
+- Assets/Metafalica/res/animation/Cocoa/CocoaC.controller
+Dependencies:
+- C:/zzzzzpr/unity_pro/MyGame/Assets/StreamingAssets/myAB/cocoa
