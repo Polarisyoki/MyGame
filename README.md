@@ -1,6 +1,7 @@
 # MyGame
 
 ps:
+- 资源等均放在Assets/Metafalica下
 - 由于项目前后改了很多遍，有些地方会比较乱，后面还会继续改动
 - 目前项目用到的功能性插件有json和dotween
 
